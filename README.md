@@ -1,2 +1,2 @@
-# Microeletr-nica
-Microeletrônica Digital
+# Microeletronica
+Capacitação Microeletrônica Digital
