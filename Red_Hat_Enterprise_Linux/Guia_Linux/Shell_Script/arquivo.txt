@@ -1,3 +1,0 @@
-usuario_1
-usuario_2
-usuario_3
