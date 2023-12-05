@@ -2,5 +2,5 @@
 
 - SO: Red Hat Enterprise Linux / Ubuntu
 - Shell Script
-- Makefiles
+- Makefile
 
