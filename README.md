@@ -1,4 +1,4 @@
-# Guia Linux
+# Guia básico de Linux
 
-- Red Hat Enterprise Linux / Ubuntu
+- SO: Red Hat Enterprise Linux / Ubuntu
 
