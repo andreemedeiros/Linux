@@ -7,5 +7,4 @@
     • Adicione a função de copiar os arquivos com extensão .log localizados no diretório /var/log para a pasta criada.
 
     • Renomeie os arquivos copiados inserindo a informação da data e hora da última atualização.
-
-                        • Use o formato aaaa-mm-dd-nome_do_arquivo
+        • Use o formato aaaa-mm-dd-nome_do_arquivo
