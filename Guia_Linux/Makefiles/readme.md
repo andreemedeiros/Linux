@@ -1,9 +1,8 @@
 Exercício:
 
-• Crie uma aplicação, escrita em C, contendo um arquivo main.c, um 
-arquivo calcula.c e um arquivo calcula.h
+• Crie uma aplicação, escrita em C, contendo um arquivo main.c, um arquivo calcula.c e um arquivo calcula.h
 
-  • Calcula() é uma função que recebe como parâmetro um número inteiro e retorna o quadrado deste número
+  OBS: Calcula() é uma função que recebe como parâmetro um número inteiro e retorna o quadrado deste número
 
     1. Crie um Makefile sem o uso do Autotools para gerar essa aplicação utilizando o GCC como compilador
 
