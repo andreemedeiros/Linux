@@ -8,4 +8,4 @@
 
     • Renomeie os arquivos copiados inserindo a informação da data e hora da última atualização.
 
-    • Use o formato aaaa-mm-dd-nome_do_arquivo
+                        • Use o formato aaaa-mm-dd-nome_do_arquivo
