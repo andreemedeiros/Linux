@@ -14,7 +14,10 @@ realizar o processo de compilação
 
 
 • Desafio:
+
 • Insira os arquivos fontes (*.c) em uma pasta denominada src
+
 • Insira os arquivos headers (*.h) em uma pasta denominada include
+
 • Modifique as duas abordagens utilizadas anteriormente (pontos 1 e 2) para compilar o 
 projeto nesta estrutura de pastas
