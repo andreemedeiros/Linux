@@ -13,8 +13,8 @@ arquivo calcula.c e um arquivo calcula.h
 
 • Desafio:
 
-    • Insira os arquivos fontes (*.c) em uma pasta denominada src
+    1. Insira os arquivos fontes (*.c) em uma pasta denominada src
 
-    • Insira os arquivos headers (*.h) em uma pasta denominada include
+    2. Insira os arquivos headers (*.h) em uma pasta denominada include
 
-    • Modifique as duas abordagens utilizadas anteriormente (pontos 1 e 2) para compilar o projeto nesta estrutura de pastas
+    3. Modifique as duas abordagens utilizadas anteriormente (pontos 1 e 2) para compilar o projeto nesta estrutura de pastas
