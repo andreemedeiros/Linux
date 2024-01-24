@@ -1,6 +1,6 @@
-# Guia básico de Linux
+# Basic Linux Guide
 
-- Sistema Operacional: Red Hat Enterprise Linux / Ubuntu
+- Operational system: Red Hat Enterprise Linux / Ubuntu
 - Shell Script
 - Makefile
 
